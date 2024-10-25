@@ -4,7 +4,8 @@ I'm a Full-Stack Developer with a background in Physics and Computer Science. I 
 
 ## Notable Projects
 
-- **[NoteTube](https://www.notetube.xyz):** An AI-driven web app that creates notes, transcripts, and quizzes from YouTube videos.
+- **[NoteTube]:** An AI-driven web app that creates notes, transcripts, and quizzes from YouTube videos.
+- demo video: [https://github.com/ShuxingFang](https://youtu.be/vRNxyshYFp0)
 
 ## Get in Touch
 
